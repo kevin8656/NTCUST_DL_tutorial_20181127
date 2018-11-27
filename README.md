@@ -79,4 +79,4 @@ https://drive.google.com/drive/folders/12iJU0K6PAVSYpeJqyU9wYh9St5RtRPKH?usp=sha
 
 
 # 附錄
-1.kaggle競賽：https://www.kaggle.com/competitions
+1.下堂課可能會教 kaggle競賽：https://www.kaggle.com/competitions
