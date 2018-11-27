@@ -11,6 +11,9 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses.html
  https://zh.gluon.ai/
 
 ## 課程內容
+### 事前作業
+下載教材，網址：
+https://drive.google.com/drive/folders/12iJU0K6PAVSYpeJqyU9wYh9St5RtRPKH?usp=sharing
 ### Anaconda(可跨平台)
 > 主要透過實際演繹，演示創造神經網路並且進行學習的流程。
 
